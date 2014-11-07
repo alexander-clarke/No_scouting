@@ -1,18 +1,18 @@
 {
-    "enabled" : true,
     "context" : "server",
     "identifier" : "com.pa.sleepykid.No_Scouting",
     "display_name" : "No Scouting",
     "description" : "You can always see everything on a planet",
-    "date": "2014/11/03",
+    "date": "2014/07/11",
     "category": [
       "balance"
     ],
     "build": "74484",
     "priority": 100,
     "forum": "https://forums.uberent.com/threads/rel-blips-in-the-dark.65856/",
-
     "author" : "sleepykid"12,
-    "version" : "0.1",
-    "signature" : "(not yet implemented)"
+    "version" : "1.0",
+    "signature" : "not yet implemented",
+    "enabled" : true
+
 }
