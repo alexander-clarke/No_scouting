@@ -1,5 +1,4 @@
 {
-
   "armor_type": "AT_Commander",
   "attachable": {
     "offsets": {
@@ -89,29 +88,18 @@
     "energy": 3000,
     "metal": 30
   },
-    "recon": {
-        "observer": {
-            "items": [
-					{
-       	        			"layer": "surface_and_air",   	 						"channel": "sight",
-                    			"shape": "capsule",
-                 			"radius": 9001,
-             			},
-					{
- 		                		"layer": "celestial",
-           		    		"channel": "sight",
-                    			"shape": "sphere",
-                    			"radius": 1,
-       				},
-                			{
-                    			"layer": "orbital",
-                    			"channel": "radar",
-                    			"shape": "capsule",
-                    			"radius": 300,
-                			},
-            		 ]
-        			}
-    },
+  "recon": {
+    "observer": {
+      "items": [
+        {
+          "channel": "sight",
+          "layer": "surface_and_air",
+          "radius": 9001,
+          "shape": "capsule"
+        }
+      ]
+    }
+  },
   "show_in_orbital_layer": true,
   "si_name": "commander",
   "storage": {
