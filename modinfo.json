@@ -1,0 +1,18 @@
+{
+    "enabled" : true,
+    "context" : "server",
+    "identifier" : "com.pa.sleepykid.No_Scouting",
+    "display_name" : "No Scouting",
+    "description" : "You can always see everything on a planet",
+    "date": "2014/11/03",
+    "category": [
+      "balance"
+    ],
+    "build": "74484",
+    "priority": 100,
+    "forum": "",
+
+    "author" : "sleepykid",
+    "version" : "0.1",
+    "signature" : "(not yet implemented)"
+}
